@@ -7,3 +7,8 @@ Agua
 Refresco
 Vino
 Cerveza
+
+Segundo Plato:
+Lasaña vegetal
+Salteado de verduras
+Tortilla de patata
