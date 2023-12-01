@@ -7,3 +7,6 @@ Agua
 Refresco
 Vino
 Cerveza
+
+primer plato = { Ensalada de la casa, Pasta vegañessa, Pure} 
+
