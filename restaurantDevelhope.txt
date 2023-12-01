@@ -8,7 +8,7 @@ Refresco
 Vino
 Cerveza
 
-Segundo Plato:
-Lasaña vegetal
-Salteado de verduras
-Tortilla de patata
+primer plato = { Ensalada de la casa, Pasta vegañessa, Pure} 
+
+segundo plato = {Lasaña vegetal, Tortilla de patata, Salteado de verduras}
+
